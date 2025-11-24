@@ -1,5 +1,5 @@
 # CSV-analysis-tool
-This script performs a simple keywork search by iterating through a Yes No column and a string column and returns two data frams for the most common keywords associated with each catagory. 
+This script performs a simple keyword search by iterating through a Yes No column and a string column and returns two data frams for the most common keywords associated with each catagory. 
 
 # How to use
 1. Clone the project into your local environment
