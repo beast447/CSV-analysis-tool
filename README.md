@@ -3,5 +3,5 @@ This script performs a simple keywork search by iterating through a Yes No colum
 
 # How to use
 1. Clone the project into your local environment
-2. Run the script by using python3 main.y <the path to your file>
+2. Run the script by using python3 main.py the path to your file
 3. Profit
