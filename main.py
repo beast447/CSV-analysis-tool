@@ -1,11 +1,13 @@
 import pandas as pd
 import re
 from collections import Counter
+import sys
 
 # 1. Load your CSV --------------------------
-df = pd.read_csv("survey.csv")
+df = pd.read_csv(sys.argv[1])
 
 # 2. Select the key columns -----------------
+
 text_col = 'In as much detail as you would like, please explain why you are, or are not interested in extending or re-enlisting.'
 intent_col = 'Would you be interested in extending or re-enlisting?'
 
